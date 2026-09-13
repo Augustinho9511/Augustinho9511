@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Pedro Augusto 👋
 
-<!--
-**Augustinho9511/Augustinho9511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Backend Developer
+Focused on building scalable backend solutions, RESTful APIs, and database architecture using Java and Spring Boot.
 
-Here are some ideas to get you started:
+- 🎓 Software Analysis and Development Student
+- 🌍 Based in Germany
+- ⚡ Tech Stack: Java, Spring Boot, PostgreSQL, SQL, Jsoup, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Tools
+- **Languages:** Java, SQL
+- **Frameworks & Libraries:** Spring Boot, Spring Data JPA, Jsoup
+- **Databases:** PostgreSQL
+- **Tools:** Git, GitHub, Postman, pgAdmin
+
+### 📫 Connect with me:
+- **LinkedIn:** [pedro augusto dev ti](https://www.linkedin.com/in/pedro-augusto-dev-ti)
