@@ -4,7 +4,6 @@
 Focused on building scalable backend solutions, RESTful APIs, and database architecture using Java and Spring Boot.
 
 - 🎓 Software Analysis and Development Student
-- 🌍 Based in Germany
 - ⚡ Tech Stack: Java, Spring Boot, PostgreSQL, SQL, Jsoup, Git
 
 ### 🛠️ Languages & Tools
